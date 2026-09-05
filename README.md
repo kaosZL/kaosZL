@@ -26,9 +26,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/metrics.svg" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=kaosZL&theme=tokyonight" alt="Streak" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/metrics-languages.svg" alt="Top Languages" />
 </div>
 
 ## 🛠 技术栈
