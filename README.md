@@ -2,7 +2,7 @@
 
 <h2 align="center">ZL</h2>
 
-<p align="center"><em>洛雪音乐 TV 版作者 · Android TV · React Native</em></p>
+<p align="center"><em> Android TV · React Native</em></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kaosZL&label=visitors&color=8b949e&style=flat" alt="visitors" /></p>
 
