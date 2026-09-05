@@ -25,7 +25,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/metrics.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/github-metrics.svg" alt="GitHub Stats" />
 </div>
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=kaosZL&theme=tokyonight" alt="Streak" />
