@@ -26,7 +26,7 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=kaosZL&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kaosZL&theme=tokyonight" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=kaosZL&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaosZL&layout=compact&theme=tokyonight" />
 </div>
