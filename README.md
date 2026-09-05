@@ -25,10 +25,10 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kaosZL&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=kaosZL&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/metrics.svg" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=kaosZL&theme=tokyonight" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaosZL&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/kaosZL/kaosZL/main/metrics-languages.svg" alt="Top Languages" />
 </div>
 
 ## 🛠 技术栈
